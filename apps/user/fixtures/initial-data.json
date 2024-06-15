@@ -1,0 +1,12 @@
+[  
+  {
+    "model": "auth.Permission",
+    "fields": {
+      "codename":"view_crm",
+      "name":"View CRM",
+      "content_type":4,
+      "label": "CRM",
+      "sub_label": "View "
+    }
+  }
+]
